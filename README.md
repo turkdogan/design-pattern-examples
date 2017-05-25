@@ -1,1 +1,1 @@
-# B-Plus-Tree
+Design pattern implementation examples in Java.
