@@ -1,4 +1,7 @@
-
+/**
+   Author: Turkdogan Tasdelen
+   Email: ttasdelen@gmail.com
+*/
 public class AbstractFactoryExample {
 
     public static void main(String[] args) {

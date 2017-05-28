@@ -2,7 +2,6 @@
    Author: Turkdogan Tasdelen
    Email: ttasdelen@gmail.com
 */
-
 public class BuilderExample {
 
     public static void main(String []args) {

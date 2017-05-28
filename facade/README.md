@@ -1,0 +1,1 @@
+Facade design pattern exposes a unified interface to the client to access subsystem interfaces. In this example sub system implementations (Teacher and Student database services respectively) are undirectly called through School Facade object.
