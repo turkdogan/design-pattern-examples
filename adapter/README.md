@@ -1,0 +1,1 @@
+In this example a simple adapter design pattern is implemented. In the adapter design pattern, an interface is designed to use incompatible interface for the client. The client uses legacy/incompatible objects undirectly through adapter objects. In general, the legacy code is wrapped in newly designed interfaces.
