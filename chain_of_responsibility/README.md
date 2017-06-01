@@ -1,0 +1,1 @@
+A simple Chain of Responsibility design pattern example to represent to idea of chaining responsilibilties of objects. In this specific example different kind of analysis objects are chanined togeter. Each object performs its responsibililty and then calls next object until the latest object in the chain.
